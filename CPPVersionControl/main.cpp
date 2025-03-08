@@ -1,4 +1,5 @@
 #include<iostream>
-int main() {
-	std::cout << "Main function\n\n";
+int main() 
+{
+	std::cout << "Hellow world!\n\n";
 }
